@@ -1,0 +1,33 @@
+{
+  "name": "jsonstore-node",
+  "version": "1.0.1",
+  "description": "The official Node wrapper for https://jsonsto.re/",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "follow-redirects": "^1.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice-devs/jsonstore-node.git"
+  },
+  "keywords": [
+    "json",
+    "online",
+    "web",
+    "database",
+    "db",
+    "wrapper",
+    "jsonstore"
+  ],
+  "author": "ice-dev (voyant)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ice-devs/jsonstore-node/issues"
+  },
+  "homepage": "https://github.com/ice-devs/jsonstore-node#readme"
+}
