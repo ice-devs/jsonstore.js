@@ -1,5 +1,5 @@
 # ⚠ THIS PACKAGE HAS BEEN DEPRECATED AND jsonsto.re DOES NOT EXIST
-<hr />
+
 # JSON Store for NodeJS
 
 jsonstore-node is the official Node wrapper for [jsonsto.re](https://jsonsto.re/).
